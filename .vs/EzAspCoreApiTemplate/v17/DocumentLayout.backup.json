@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\MyTemplate.Infrastructure\\MyTemplate.Infrastructure.csproj|c:\\users\\ashok\\downloads\\ezaspcoreapitemplate\\src\\mytemplate.infrastructure\\messaging\\kafkapublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\MyTemplate.Infrastructure\\MyTemplate.Infrastructure.csproj|solutionrelative:src\\mytemplate.infrastructure\\messaging\\kafkapublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\MyTemplate.WebAPI\\MyTemplate.WebAPI.csproj|c:\\users\\ashok\\downloads\\ezaspcoreapitemplate\\src\\mytemplate.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\MyTemplate.WebAPI\\MyTemplate.WebAPI.csproj|solutionrelative:src\\mytemplate.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\MyTemplate.WebAPI\\MyTemplate.WebAPI.csproj|c:\\users\\ashok\\downloads\\ezaspcoreapitemplate\\src\\mytemplate.webapi\\mytemplate.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\MyTemplate.WebAPI\\MyTemplate.WebAPI.csproj|solutionrelative:src\\mytemplate.webapi\\mytemplate.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\MyTemplate.WebAPI\\MyTemplate.WebAPI.csproj|c:\\users\\ashok\\downloads\\ezaspcoreapitemplate\\src\\mytemplate.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44444444-4444-4444-4444-444444444444}|src\\MyTemplate.WebAPI\\MyTemplate.WebAPI.csproj|solutionrelative:src\\mytemplate.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\MyTemplate.Infrastructure\\MyTemplate.Infrastructure.csproj|c:\\users\\ashok\\downloads\\ezaspcoreapitemplate\\src\\mytemplate.infrastructure\\database\\postgresconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\MyTemplate.Infrastructure\\MyTemplate.Infrastructure.csproj|solutionrelative:src\\mytemplate.infrastructure\\database\\postgresconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\MyTemplate.Infrastructure\\MyTemplate.Infrastructure.csproj|c:\\users\\ashok\\downloads\\ezaspcoreapitemplate\\src\\mytemplate.infrastructure\\database\\mysqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\MyTemplate.Infrastructure\\MyTemplate.Infrastructure.csproj|solutionrelative:src\\mytemplate.infrastructure\\database\\mysqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\MyTemplate.Infrastructure\\MyTemplate.Infrastructure.csproj|c:\\users\\ashok\\downloads\\ezaspcoreapitemplate\\src\\mytemplate.infrastructure\\repositories\\mysqluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\MyTemplate.Infrastructure\\MyTemplate.Infrastructure.csproj|solutionrelative:src\\mytemplate.infrastructure\\repositories\\mysqluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\MyTemplate.Infrastructure\\MyTemplate.Infrastructure.csproj|c:\\users\\ashok\\downloads\\ezaspcoreapitemplate\\src\\mytemplate.infrastructure\\messaging\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\MyTemplate.Infrastructure\\MyTemplate.Infrastructure.csproj|solutionrelative:src\\mytemplate.infrastructure\\messaging\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\MyTemplate.Application\\MyTemplate.Application.csproj|c:\\users\\ashok\\downloads\\ezaspcoreapitemplate\\src\\mytemplate.application\\interfaces\\imessagepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\MyTemplate.Application\\MyTemplate.Application.csproj|solutionrelative:src\\mytemplate.application\\interfaces\\imessagepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\MyTemplate.Infrastructure\\MyTemplate.Infrastructure.csproj|c:\\users\\ashok\\downloads\\ezaspcoreapitemplate\\src\\mytemplate.infrastructure\\repositories\\postgresuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33333333-3333-3333-3333-333333333333}|src\\MyTemplate.Infrastructure\\MyTemplate.Infrastructure.csproj|solutionrelative:src\\mytemplate.infrastructure\\repositories\\postgresuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\MyTemplate.Application\\MyTemplate.Application.csproj|c:\\users\\ashok\\downloads\\ezaspcoreapitemplate\\src\\mytemplate.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|src\\MyTemplate.Application\\MyTemplate.Application.csproj|solutionrelative:src\\mytemplate.application\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\MyTemplate.Domain\\MyTemplate.Domain.csproj|c:\\users\\ashok\\downloads\\ezaspcoreapitemplate\\src\\mytemplate.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|src\\MyTemplate.Domain\\MyTemplate.Domain.csproj|solutionrelative:src\\mytemplate.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\MyTemplate.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.WebAPI\\appsettings.json",
+              "RelativeToolTip": "src\\MyTemplate.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T06:21:52.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostgresConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Infrastructure\\Database\\PostgresConnectionFactory.cs",
+              "RelativeDocumentMoniker": "src\\MyTemplate.Infrastructure\\Database\\PostgresConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Infrastructure\\Database\\PostgresConnectionFactory.cs",
+              "RelativeToolTip": "src\\MyTemplate.Infrastructure\\Database\\PostgresConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:38:45.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MySqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Infrastructure\\Database\\MySqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "src\\MyTemplate.Infrastructure\\Database\\MySqlConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Infrastructure\\Database\\MySqlConnectionFactory.cs",
+              "RelativeToolTip": "src\\MyTemplate.Infrastructure\\Database\\MySqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:38:40.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMessagePublisher.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Application\\Interfaces\\IMessagePublisher.cs",
+              "RelativeDocumentMoniker": "src\\MyTemplate.Application\\Interfaces\\IMessagePublisher.cs",
+              "ToolTip": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Application\\Interfaces\\IMessagePublisher.cs",
+              "RelativeToolTip": "src\\MyTemplate.Application\\Interfaces\\IMessagePublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:22:54.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostgresUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Infrastructure\\Repositories\\PostgresUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\MyTemplate.Infrastructure\\Repositories\\PostgresUserRepository.cs",
+              "ToolTip": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Infrastructure\\Repositories\\PostgresUserRepository.cs",
+              "RelativeToolTip": "src\\MyTemplate.Infrastructure\\Repositories\\PostgresUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:23:49.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MySqlUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Infrastructure\\Repositories\\MySqlUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\MyTemplate.Infrastructure\\Repositories\\MySqlUserRepository.cs",
+              "ToolTip": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Infrastructure\\Repositories\\MySqlUserRepository.cs",
+              "RelativeToolTip": "src\\MyTemplate.Infrastructure\\Repositories\\MySqlUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:23:26.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\MyTemplate.Application\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Application\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "src\\MyTemplate.Application\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:21:53.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\MyTemplate.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "src\\MyTemplate.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:21:16.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RabbitMqPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Infrastructure\\Messaging\\RabbitMqPublisher.cs",
+              "RelativeDocumentMoniker": "src\\MyTemplate.Infrastructure\\Messaging\\RabbitMqPublisher.cs",
+              "ToolTip": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Infrastructure\\Messaging\\RabbitMqPublisher.cs",
+              "RelativeToolTip": "src\\MyTemplate.Infrastructure\\Messaging\\RabbitMqPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:12:05.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KafkaPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Infrastructure\\Messaging\\KafkaPublisher.cs",
+              "RelativeDocumentMoniker": "src\\MyTemplate.Infrastructure\\Messaging\\KafkaPublisher.cs",
+              "ToolTip": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.Infrastructure\\Messaging\\KafkaPublisher.cs",
+              "RelativeToolTip": "src\\MyTemplate.Infrastructure\\Messaging\\KafkaPublisher.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:11:58.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyTemplate.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.WebAPI\\MyTemplate.WebAPI.csproj",
+              "RelativeDocumentMoniker": "src\\MyTemplate.WebAPI\\MyTemplate.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.WebAPI\\MyTemplate.WebAPI.csproj",
+              "RelativeToolTip": "src\\MyTemplate.WebAPI\\MyTemplate.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-01T11:08:59.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "src\\MyTemplate.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ashok\\Downloads\\EzAspCoreApiTemplate\\src\\MyTemplate.WebAPI\\Program.cs",
+              "RelativeToolTip": "src\\MyTemplate.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T06:43:02.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

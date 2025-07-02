@@ -1,0 +1,11 @@
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Domain\bin\Debug\net8.0\MyTemplate.Domain.deps.json
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Domain\bin\Debug\net8.0\MyTemplate.Domain.dll
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Domain\bin\Debug\net8.0\MyTemplate.Domain.pdb
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Domain\obj\Debug\net8.0\MyTemplate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Domain\obj\Debug\net8.0\MyTemplate.Domain.AssemblyInfoInputs.cache
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Domain\obj\Debug\net8.0\MyTemplate.Domain.AssemblyInfo.cs
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Domain\obj\Debug\net8.0\MyTemplate.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Domain\obj\Debug\net8.0\MyTemplate.Domain.dll
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Domain\obj\Debug\net8.0\refint\MyTemplate.Domain.dll
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Domain\obj\Debug\net8.0\MyTemplate.Domain.pdb
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Domain\obj\Debug\net8.0\ref\MyTemplate.Domain.dll

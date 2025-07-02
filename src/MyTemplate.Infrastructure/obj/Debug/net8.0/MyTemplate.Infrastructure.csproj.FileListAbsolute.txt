@@ -1,0 +1,17 @@
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\bin\Debug\net8.0\MyTemplate.Infrastructure.deps.json
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\bin\Debug\net8.0\MyTemplate.Infrastructure.dll
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\bin\Debug\net8.0\MyTemplate.Infrastructure.pdb
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\bin\Debug\net8.0\MyTemplate.Application.dll
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\bin\Debug\net8.0\MyTemplate.Domain.dll
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\bin\Debug\net8.0\MyTemplate.Application.pdb
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\bin\Debug\net8.0\MyTemplate.Domain.pdb
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\obj\Debug\net8.0\MyTemplate.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\obj\Debug\net8.0\MyTemplate.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\obj\Debug\net8.0\MyTemplate.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\obj\Debug\net8.0\MyTemplate.Infrastructure.AssemblyInfo.cs
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\obj\Debug\net8.0\MyTemplate.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\obj\Debug\net8.0\MyTempla.67C49A5D.Up2Date
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\obj\Debug\net8.0\MyTemplate.Infrastructure.dll
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\obj\Debug\net8.0\refint\MyTemplate.Infrastructure.dll
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\obj\Debug\net8.0\MyTemplate.Infrastructure.pdb
+C:\Users\ashok\Downloads\EzAspCoreApiTemplate\src\MyTemplate.Infrastructure\obj\Debug\net8.0\ref\MyTemplate.Infrastructure.dll

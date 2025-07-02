@@ -1,0 +1,46 @@
+
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "YourName",
+  "classifications": ["WebAPI", "CleanArchitecture"],
+  "identity": "EzAspCoreApi.Template",
+  "name": "EZ ASP.NET Core API Clean Architecture Template",
+  "shortName": "ez-aspcoreapi",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "MyTemplate",
+  "symbols": {
+    "mysql": {
+      "type": "bool",
+      "defaultValue": "false",
+      "description": "Include MySQL repository support"
+    },
+    "postgres": {
+      "type": "bool",
+      "defaultValue": "false",
+      "description": "Include PostgreSQL repository support"
+    },
+    "rabbit": {
+      "type": "bool",
+      "defaultValue": "false",
+      "description": "Include RabbitMQ messaging support"
+    },
+    "kafka": {
+      "type": "bool",
+      "defaultValue": "false",
+      "description": "Include Kafka messaging support"
+    }
+  },
+  "sources": [
+    {
+      "modifiers": [
+        { "condition": "(!mysql)", "exclude": [ "**/Infrastructure/Repositories/MySql*" ] },
+        { "condition": "(!postgres)", "exclude": [ "**/Infrastructure/Repositories/Postgres*" ] },
+        { "condition": "(!rabbit)", "exclude": [ "**/Infrastructure/Messaging/Rabbit*" ] },
+        { "condition": "(!kafka)", "exclude": [ "**/Infrastructure/Messaging/Kafka*" ] }
+      ]
+    }
+  ]
+}
