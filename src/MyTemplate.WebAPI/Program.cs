@@ -47,11 +47,11 @@ services.AddOpenTelemetry()
 builder.Host.UseSerilog();
 
 #if mysql
-services.AddScoped<IUserRepository, MySqlUserRepository>();
+services.AddTransient<IUserRepository, MySqlUserRepository>();
 #endif
 
 #if postgres
-services.AddScoped<IUserRepository, PostgresUserRepository>();
+services.AddTransient<IUserRepository, PostgresUserRepository>();
 #endif
 
 
