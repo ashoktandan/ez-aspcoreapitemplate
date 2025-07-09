@@ -6,6 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(mysql_symbol)' == 'mysql'">
+    <DefineConstants>$(DefineConstants);mysql</DefineConstants>
+  </PropertyGroup>
+
   <ItemGroup>
     <PackageReference Include="Elastic.Serilog.Sinks" Version="8.18.2" />
     <PackageReference Include="OpenTelemetry" Version="1.12.0" />

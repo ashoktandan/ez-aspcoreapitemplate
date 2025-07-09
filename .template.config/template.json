@@ -13,10 +13,15 @@
   "sourceName": "MyTemplate",
   "symbols": {
     "mysql": {
-      "type": "bool",
+        "type": "parameter",
+        "datatype": "bool",
       "defaultValue": "false",
       "description": "Include MySQL repository support"
     },
+      "mysql_symbol": {
+        "type": "computed",
+        "value": "(mysql ? \"mysql\" : \"\")"
+      },
     "postgres": {
       "type": "bool",
       "defaultValue": "false",
