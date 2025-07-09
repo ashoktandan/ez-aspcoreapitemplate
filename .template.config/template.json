@@ -1,11 +1,11 @@
 
 {
   "$schema": "http://json.schemastore.org/template",
-  "author": "YourName",
+  "author": "Ashok",
   "classifications": ["WebAPI", "CleanArchitecture"],
   "identity": "EzAspCoreApi.Template",
   "name": "EZ ASP.NET Core API Clean Architecture Template",
-  "shortName": "ez-aspcoreapi",
+  "shortName": "ez-aspcore-api",
   "tags": {
     "language": "C#",
     "type": "project"
@@ -18,22 +18,21 @@
       "defaultValue": "false",
       "description": "Include MySQL repository support"
     },
-      "mysql_symbol": {
-        "type": "computed",
-        "value": "(mysql ? \"mysql\" : \"\")"
-      },
     "postgres": {
-      "type": "bool",
+      "type": "parameter",
+      "datatype": "bool",
       "defaultValue": "false",
       "description": "Include PostgreSQL repository support"
     },
     "rabbit": {
-      "type": "bool",
+      "type": "parameter",
+      "datatype": "bool",
       "defaultValue": "false",
       "description": "Include RabbitMQ messaging support"
     },
     "kafka": {
-      "type": "bool",
+      "type": "parameter",
+      "datatype": "bool",
       "defaultValue": "false",
       "description": "Include Kafka messaging support"
     }
